@@ -36,7 +36,7 @@ This website represents the digital front-end for our academic project developed
 
 ## Screenshots
 
-![website](project_hypermarket/image.png)
+![website](hyper-p/image.png)
 
 *Screenshot placeholders - Add your website screenshots here*
 
